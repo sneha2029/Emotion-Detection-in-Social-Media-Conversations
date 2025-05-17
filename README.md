@@ -1,2 +1,1 @@
-# Emotion-Detection-in-Social-Media-Conversations
-Emotion Detection in Social Media Conversations
+# Decoding-emotions-through-sentiment-analysis
